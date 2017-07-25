@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\bin\Windows Phone\Debug\SkinnedModel.dll
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\bin\Windows Phone\Debug\SkinnedModel.pdb
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\obj\Windows Phone\Debug\SkinnedModel.dll
+C:\Users\Nathaniel\Desktop\SkinningSample_4_0\SkinnedModel\obj\Windows Phone\Debug\SkinnedModel.pdb

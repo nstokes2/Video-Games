@@ -1,0 +1,16 @@
+C:\Users\Nathaniel\Downloads\Billboard_4_0\BillboardPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Downloads\XNA\Billboard_4_0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Downloads\XNA\Billboard_4_0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.pdb
+C:\Users\Nathaniel\Downloads\XNA\Billboard_4_0\BillboardPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Downloads\XNA\Billboard_4_0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Downloads\XNA\Billboard_4_0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.pdb
+C:\Users\Nathaniel\Desktop\SmellOfRevenge4.0\SmellOfRevenge4.0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Desktop\SmellOfRevenge4.0\SmellOfRevenge4.0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.pdb
+C:\Users\Nathaniel\Desktop\SmellOfRevenge4.0\SmellOfRevenge4.0\BillboardPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\SmellOfRevenge4.0\SmellOfRevenge4.0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Desktop\SmellOfRevenge4.0\SmellOfRevenge4.0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.pdb
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\BillboardPipeline\bin\x86\Debug\BillboardPipeline.pdb
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\BillboardPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.dll
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\BillboardPipeline\obj\x86\Debug\BillboardPipeline.pdb

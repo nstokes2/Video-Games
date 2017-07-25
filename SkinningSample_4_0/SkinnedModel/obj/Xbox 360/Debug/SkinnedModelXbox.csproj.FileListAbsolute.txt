@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\Nathaniel\Downloads\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.pdb
